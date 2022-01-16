@@ -1,5 +1,6 @@
 node_modules
 public/logo*
+src/colors.js
 public/robots.txt
 public/favicon.ico
 public/manifest.json
