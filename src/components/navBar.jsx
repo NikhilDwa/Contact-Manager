@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Colors } from "../config/colors";
+
 const NavBar = () => {
     return (
         <nav className="navbar navbar-light bg-white justify-content-between px-5">
