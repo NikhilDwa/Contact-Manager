@@ -1,0 +1,5 @@
+node_modules
+public/logo*
+public/robots.txt
+public/favicon.ico
+public/manifest.json
