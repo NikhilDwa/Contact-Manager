@@ -1,6 +1,6 @@
 # React-and-Node-JS
 
-React-and-Node-JS is a program developed using react and node.  which takes user input, calculate the similarity and recommend top 5 similar text. 
+React-and-Node-JS is a program developed using react and node. The program ask user to login, and can see all the previously saved contact and also add new contacts.
 
 ## How to use?
 
@@ -21,7 +21,7 @@ If you already have an account, select login else select Signup.
 Login using correct credentials
 
 ```bash
-Now, you can see all the previously saved contact and also add new contacts
+Now, you can see all the previously saved contact and also add new contacts.
 ``` 
 
 ## Call for Contributions
